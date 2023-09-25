@@ -5,6 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=durgesh2505" alt="durgesh2505" /></a> </p>
 
+- 🔭 I’m currently working on **nothing**
+
+- 👯 I’m looking to collaborate on **cpp**
+
 - 📫 How to reach me **durgeshchaudhari2505@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
